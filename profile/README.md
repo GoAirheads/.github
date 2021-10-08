@@ -16,3 +16,6 @@ _____
 ### [Sign your Waiver Online](https://goairheads.com/waiver)
 
 ### [Year Passholders](https://m-client.goairheads.com)
+
+
+## Have a [Bug to Report?](https://github.com/GoAirheads/issues/issues/new/choose) or a [Feature to request?](https://github.com/GoAirheads/issues/discussions/new)
